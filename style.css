@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  position: center top;
+  border-radius: 50%;
+}
+
+.Graduated {
+ color: cornflowerblue; 
+  font-weight: 600;
+}
+
+ a {
+  background-color: white;
+  color: black;
+  border-radius: 4px;
+  padding: 15px 0px;
+  width: 330px;
+  text-align: center;
+  text-decoration: none;
+  margin-bottom: 10px;
+   border: 2px solid black;
+}
